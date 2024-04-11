@@ -1,4 +1,4 @@
-package com.demo.publisher;
+package com.demo.queue;
 
 import jakarta.jms.*;
 import org.apache.activemq.ActiveMQConnectionFactory;
